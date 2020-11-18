@@ -1,5 +1,5 @@
 # Challenge_Response_Authentication_Mechanism
-Implemention of the Challenege-Response based entity authentication protocols between two physical computers. 
+Implemention of the Challenege-Response based entity authentication protocol between two physical computers. 
 One computer should act as the User (Claimant) and the other-one should act as Authentication Server (Verifier). The protocol must have three modules : 
 1) Registration Module: using which a new user can register itself to the server and 
 2) Authentication Module: using which a registered user can authenticate itself to the server, 
